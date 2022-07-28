@@ -46,29 +46,24 @@ You may also contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 
 ### CGI and Turku City 
 
-1. Video introduction[youtube](https://youtu.be/DzbcShljmQE)
+1. Video introduction [youtube](https://youtu.be/DzbcShljmQE)
 1. Find the map [here](https://github.com/JenyaPu/TurkuLife)
 1. More information [here](https://docs.google.com/document/d/13oTHdf4OECJiRPGcbx-3KOHWM1PB6sHP5Sln7sGCDWU)
 1. Prototypes of the [UI/UX]() 
-
-
-1.Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
-    ```yml
-    theme: minima
-    ```
-1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
-1. Commit your changes.
-1. Wait about 20 seconds then refresh this page for the next step.
+  
+### GREENER 
+  
+  1. Prototype [DApp](https://www.figma.com/file/rXd6Rv6HUjVkVKzRBiahdK/GREENER?node-id=5%3A4226)
+ 
+### Carin Care 
+  
+  1. Video Introduction [MP4](https://drive.google.com/file/d/14QsI-M7mFE1IC4Np_Pi7CbV5Rf-eBLlw/view?usp=sharing)
+  1. Application [Mockups](https://drive.google.com/drive/folders/1JJW1T8wotbHnFh1VvcZhosu5_zAbt4dW?usp=sharing)
+  1. Business Plan can be found [here](https://drive.google.com/file/d/1fzfqZ-N-q1kwSXKrHhDfqdtJjniIasJY/view?usp=sharing)
 
 </details>
 
 <!--
-  <<< Author notes: Step 3 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked the homepage content was not empty.
--->
-
 <details id=3>
 <summary><h2>Step 3: Customize your homepage</h2></summary>
 
@@ -192,6 +187,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
+-->
 ---
 
 &copy; 2022 pe1l1nl1 &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
