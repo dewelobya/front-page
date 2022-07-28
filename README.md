@@ -5,89 +5,54 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# GitHub Pages
+# Pe1l1nl1 Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+site not regularly updated 
 
 <!--
-  <<< Author notes: Start of the course >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
-  Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
+--
 -->
 
 <!--step0
 
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
-
-- **Who is this for**: Beginners, students, project maintainers, small businesses.
-- **What you'll learn**: How to build a GitHub Pages site.
-- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
-- **How long**: This course is five steps long and takes less than one hour to complete.
-
-## How to start this course
-
-1. Above these instructions, right-click **Use this template** and open the link in a new tab.
-   ![Use this template](https://user-images.githubusercontent.com/1221423/169618716-fb17528d-f332-4fc5-a11a-eaa23562665e.png)
-2. In the new tab, follow the prompts to create a new repository.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository—private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
-
 endstep0-->
 
 <!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
+ --
 -->
 
 <details id=1>
-<summary><h2>Step 1: Enable GitHub Pages</h2></summary>
+<summary><h2> About me </h2></summary>
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+This is a site made of GitHub Pages + Jekyll +  🐆
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+Check out my updated [curriculum vitae](https://www.overleaf.com/read/xfjssmknscmk). 
+You may also contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages**, in the "GitHub Pages" section, use the Source drop-down, then select **main branch**.
-1. Wait about _one minute_, then refresh this page for the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-
+<!--### :keyboard: Activity: Enable GitHub Pages
+   
+-->
 </details>
+
+
 
 <!--
   <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
+  --
 -->
 
 <details id=2 open>
-<summary><h2>Step 2: Configure your site</h2></summary>
+<summary><h2> My Previous Projects </h2></summary>
 
-_You turned on GitHub Pages! :tada:_
+### CGI and Turku City 
 
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
+1. Video introduction[youtube](https://youtu.be/DzbcShljmQE)
+1. Find the map [here](https://github.com/JenyaPu/TurkuLife)
+1. More information [here](https://docs.google.com/document/d/13oTHdf4OECJiRPGcbx-3KOHWM1PB6sHP5Sln7sGCDWU)
+1. Prototypes of the [UI/UX]() 
 
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
 
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
-
-### :keyboard: Activity: Configure your site
-
-1. Browse to the `_config.yml` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
+1.Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
     ```yml
     theme: minima
     ```
@@ -229,6 +194,4 @@ Here's a recap of all the tasks you've accomplished in your repository:
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2022 pe1l1nl1 &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
