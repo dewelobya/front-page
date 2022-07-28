@@ -5,9 +5,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Pe1l1nl1 Pages
+# Pe1l1nl1 Page
 
-site not regularly updated 
+Page not regularly updated 
 
 <!--
 --
@@ -21,7 +21,7 @@ endstep0-->
 <details id=1>
 <summary><h2> About me </h2></summary>
 
-This is a site made of GitHub Pages + Jekyll +  🐆
+Page made of GitHub Pages + Jekyll +  🐆
 
 Check out my updated [curriculum vitae](https://www.overleaf.com/read/xfjssmknscmk). 
 
