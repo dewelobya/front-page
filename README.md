@@ -17,9 +17,6 @@ site not regularly updated
 
 endstep0-->
 
-<!--
- --
--->
 
 <details id=1>
 <summary><h2> About me </h2></summary>
@@ -27,6 +24,7 @@ endstep0-->
 This is a site made of GitHub Pages + Jekyll +  🐆
 
 Check out my updated [curriculum vitae](https://www.overleaf.com/read/xfjssmknscmk). 
+
 You may also contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 
 <!--### :keyboard: Activity: Enable GitHub Pages
@@ -78,6 +76,8 @@ KinderKarten DAO is focused on children’s, girls’ and women’s education, c
 
 </details>
 
+<!--
+
 ### :keyboard: Activity: Create a blog post
 
 1. Browse to the `my-pages` branch.
@@ -97,7 +97,7 @@ KinderKarten DAO is focused on children’s, girls’ and women’s education, c
   
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
-
+-->
 ---
 
 &copy; 2022 pe1l1nl1 &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
