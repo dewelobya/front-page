@@ -55,7 +55,7 @@ You may also contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 1. [Prototypes](https://www.figma.com/file/UYBYJqylGACqRsoCqFXaya/TurkuLife?node-id=0%3A1) 
   
 
-### 🩸 Carin Care 
+### 🩺 Carin Care 
   
   1. Video Introduction [MP4](https://drive.google.com/file/d/14QsI-M7mFE1IC4Np_Pi7CbV5Rf-eBLlw/view?usp=sharing)
   1. Application [Mockups](https://drive.google.com/drive/folders/1JJW1T8wotbHnFh1VvcZhosu5_zAbt4dW?usp=sharing)
