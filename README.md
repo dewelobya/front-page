@@ -7,8 +7,6 @@
 
 # Pe1l1nl1 Page
 
-Page updated 4-Aug-2022 
-
 <!--
 --
 -->
