@@ -42,7 +42,7 @@ Contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 -->
 
 <details id=2 open>
-<summary><h2> Previous Projects </h2></summary>
+<summary><h2> Previous Projects #UIUX #PM #Prototype </h2></summary>
 
 ### 🌳 GREENER 
   
