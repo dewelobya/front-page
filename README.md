@@ -7,7 +7,7 @@
 
 # Pe1l1nl1 Page
 
-Page updated 
+Page updated 4-Aug-2022 
 
 <!--
 --
@@ -22,7 +22,7 @@ endstep0-->
 <summary><h2> About me </h2></summary>
 
 Page made of GitHub Pages + Jekyll +  🐆
-
+  
 My Github recent [posts](https://github.com/pe1l1nl1/pe1l1nl1/tree/main/_posts)
 
 Check out my updated [curriculum vitae](https://www.overleaf.com/read/xfjssmknscmk). 
@@ -42,8 +42,9 @@ Contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 -->
 
 <details id=2 open>
-<summary><h2> Previous Projects #UIUX #PM #Prototype </h2></summary>
-
+<summary><h2> Previous Group Projects </h2></summary>
+  
+  
 ### 🌳 GREENER 
   
   1. Prototype [DApp](https://www.figma.com/file/rXd6Rv6HUjVkVKzRBiahdK/GREENER?node-id=5%3A4226)
@@ -65,8 +66,24 @@ Contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 
 </details>
 
-
 <details id=3>
+  
+<summary><h2> Data Analytics Portfolio (updating...) </h2></summary>
+
+Updated 4-Aug-2022 05:17 AM 🌟 
+
+### Data Analytics Projects
+
+1. Simple Data Analytics Projects [here](https://github.com/pe1l1nl1/Data-Analytics-Projects) 
+  
+
+
+</details>
+
+
+
+<details id=4>
+  
 <summary><h2> Bored? Join our DAO </h2></summary>
 
 Join our DAO or form a subDAO with us 🌟 
@@ -77,7 +94,7 @@ Join our DAO or form a subDAO with us 🌟
   KinderKarten DAO is focused on children’s, girls’ and women’s education, career development, and entrepreneurship on Web 3.0 
   
 -->
-1. Our [Notion](https://innate-people-17b.notion.site/KinderKarten-DAO-07ec10f3ea104a018c2d15e124cee5c5) 
+1. Notion coming ..[Notion](https://innate-people-17b.notion.site/KinderKarten-DAO-07ec10f3ea104a018c2d15e124cee5c5) 
 
 
 </details>
