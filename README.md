@@ -23,11 +23,11 @@ endstep0-->
 
 Page made of GitHub Pages + Jekyll +  🐆
 
-[My posts] (https://github.com/pe1l1nl1/pe1l1nl1/tree/main/_posts)
+My Github recent [posts](https://github.com/pe1l1nl1/pe1l1nl1/tree/main/_posts)
 
 Check out my updated [curriculum vitae](https://www.overleaf.com/read/xfjssmknscmk). 
 
-You may also contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
+Contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 
 <!--### :keyboard: Activity: Enable GitHub Pages
    
