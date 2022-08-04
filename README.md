@@ -92,7 +92,7 @@ Join our DAO or form a subDAO with us 🌟
   KinderKarten DAO is focused on children’s, girls’ and women’s education, career development, and entrepreneurship on Web 3.0 
   
 -->
-1. Notion coming ..[Notion](https://innate-people-17b.notion.site/KinderKarten-DAO-07ec10f3ea104a018c2d15e124cee5c5) 
+1. Notion coming ..[Notion](https://www.notion.so/KinderKarten-07ec10f3ea104a018c2d15e124cee5c5) 
 
 
 </details>
