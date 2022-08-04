@@ -63,6 +63,8 @@ Contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
   1. Video Introduction [MP4](https://drive.google.com/file/d/14QsI-M7mFE1IC4Np_Pi7CbV5Rf-eBLlw/view?usp=sharing)
   1. Application [Mockups](https://drive.google.com/drive/folders/1JJW1T8wotbHnFh1VvcZhosu5_zAbt4dW?usp=sharing)
   1. Business plan [BP](https://drive.google.com/file/d/1fzfqZ-N-q1kwSXKrHhDfqdtJjniIasJY/view?usp=sharing)
+  1. She Loves Tech Nordic Region x TWBA x NCSF, Best 8 Pitching Companies in 2022
+  1. ZGC Forum, International Technology Transfer Network Innovation Technologies for International Cooperation (100Bestech) listed as best 120 in 2021
 
 </details>
 
