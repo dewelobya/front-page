@@ -92,8 +92,8 @@ Join our DAO or form a subDAO with us 🌟
   KinderKarten DAO is focused on children’s, girls’ and women’s education, career development, and entrepreneurship on Web 3.0 
   
 -->
-1. [Github](https://www.notion.so/KinderKarten-07ec10f3ea104a018c2d15e124cee5c5](https://github.com/KinderKarten)
-1. Telegram 
+1. [Github](https://github.com/KinderKarten)
+
 
 
 </details>
