@@ -72,8 +72,6 @@ Contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 
 Updated 4-Aug-2022 05:17 AM 🌟 
 
-### Data Analytics Projects
-
 1. Simple Data Analytics Projects [here](https://github.com/pe1l1nl1/Data-Analytics-Projects) 
   
 
