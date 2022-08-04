@@ -7,7 +7,7 @@
 
 # Pe1l1nl1 Page
 
-Page not regularly updated 
+Page updated 
 
 <!--
 --
@@ -22,6 +22,8 @@ endstep0-->
 <summary><h2> About me </h2></summary>
 
 Page made of GitHub Pages + Jekyll +  🐆
+
+[My posts] (https://github.com/pe1l1nl1/pe1l1nl1/tree/main/_posts)
 
 Check out my updated [curriculum vitae](https://www.overleaf.com/read/xfjssmknscmk). 
 
