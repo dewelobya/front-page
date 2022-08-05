@@ -5,9 +5,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Pe1l1nl1 Page
+# My github page
 
-Page not regularly updated 
+
 
 <!--
 --
@@ -23,9 +23,9 @@ endstep0-->
 
 Page made of GitHub Pages + Jekyll +  🐆
 
-Check out my updated [curriculum vitae](https://www.overleaf.com/read/xfjssmknscmk). 
+Updated [curriculum vitae](https://www.overleaf.com/read/xfjssmknscmk). 
 
-You may also contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
+Contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 
 <!--### :keyboard: Activity: Enable GitHub Pages
    
@@ -42,18 +42,17 @@ You may also contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 <details id=2 open>
 <summary><h2> Previous Projects </h2></summary>
 
-### CGI and Turku City 
+<!-- ### 🌳 GREENER 1. Prototype [DApp](https://www.figma.com/file/rXd6Rv6HUjVkVKzRBiahdK/GREENER?node-id=5%3A4226)
+### 👴 CGI and Turku City 
+-->
 
 1. Video introduction [youtube](https://youtu.be/DzbcShljmQE)
-1. Find the map [🚶‍♀️](https://github.com/JenyaPu/TurkuLife)
+1. Find the [map](https://github.com/JenyaPu/TurkuLife)
 1. More information [here](https://docs.google.com/document/d/13oTHdf4OECJiRPGcbx-3KOHWM1PB6sHP5Sln7sGCDWU)
-1. Prototypes [💻](https://www.figma.com/file/UYBYJqylGACqRsoCqFXaya/TurkuLife?node-id=0%3A1) 
+1. [Prototypes](https://www.figma.com/file/UYBYJqylGACqRsoCqFXaya/TurkuLife?node-id=0%3A1) 
   
-### GREENER 
-  
-  1. Prototype [DApp](https://www.figma.com/file/rXd6Rv6HUjVkVKzRBiahdK/GREENER?node-id=5%3A4226)
- 
-### Carin Care 
+
+### 💉 Carin Care 
   
   1. Video Introduction [🎬](https://drive.google.com/file/d/14QsI-M7mFE1IC4Np_Pi7CbV5Rf-eBLlw/view?usp=sharing)
   1. Application [Mockups](https://drive.google.com/drive/folders/1JJW1T8wotbHnFh1VvcZhosu5_zAbt4dW?usp=sharing)
@@ -61,17 +60,27 @@ You may also contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 
 </details>
 
-
 <details id=3>
+<summary><h2> Programming and data analysis projects (updating...) </h2></summary>
+
+last update 4-August-2022
+
+
+1. [Summer School Data Analysis Projects](https://github.com/pe1l1nl1/Data-Analytics-Projects)
+1. [Data Sciences Projects](https://github.com/pe1l1nl1/Data-Science-Summer-School) 
+1. [Overleaf Resume Template](https://github.com/pe1l1nl1/Peppa-Pig-Resume)
+
+</details>
+
+
+<details id=4>
 <summary><h2> Bored? Join our DAO </h2></summary>
 
  _Join our DAO or form a subDAO with us :sparkles:_
 
-### :keyboard: KinderKarten DAO 
+<!-- KinderKarten DAO is focused on children’s, girls’ and women’s education, career development, and entrepreneurship on Web 3.0 -->
 
-KinderKarten DAO is focused on children’s, girls’ and women’s education, career development, and entrepreneurship on Web 3.0 
-
-1. Our [Notion](https://innate-people-17b.notion.site/KinderKarten-DAO-07ec10f3ea104a018c2d15e124cee5c5) 
+1. [Github (building in process)](https://github.com/KinderKarten) 
 
 
 </details>
