@@ -42,10 +42,12 @@ Contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 <details id=2 open>
 <summary><h2> Previous Projects </h2></summary>
 
-<!-- ### 🌳 GREENER 1. Prototype [DApp](https://www.figma.com/file/rXd6Rv6HUjVkVKzRBiahdK/GREENER?node-id=5%3A4226)-->
+### 🌳 GREENER 
+
+1. UI Frames [DApp](https://www.figma.com/file/rXd6Rv6HUjVkVKzRBiahdK/GREENER?node-id=5%3A4226)
   
   
-### 👴 CGI and Turku City 
+### 🏙 CGI and Turku City 
 
 
 1. Video introduction [youtube](https://youtu.be/DzbcShljmQE)
@@ -54,7 +56,7 @@ Contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 1. [Prototypes](https://www.figma.com/file/UYBYJqylGACqRsoCqFXaya/TurkuLife?node-id=0%3A1) 
   
 
-### 💉 Carin Care 
+### 🩺 Carin Care 
   
   1. Introduction [Video](https://drive.google.com/file/d/14QsI-M7mFE1IC4Np_Pi7CbV5Rf-eBLlw/view?usp=sharing)
   1. Application [Mockups](https://drive.google.com/drive/folders/1JJW1T8wotbHnFh1VvcZhosu5_zAbt4dW?usp=sharing)
