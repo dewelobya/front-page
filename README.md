@@ -1,127 +1,51 @@
-<!--
-  <<< Author notes: Header of the course >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
--->
+## Developer Portfolio Landing Page Template
 
-# My Github Page 
+### Introduction
 
-<!--
---
--->
+Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
-Quick Links
+<img src="images/demo.gif?raw=true"/>
 
-<!--step0
+### Installation
 
-endstep0-->
+See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+___
 
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-<details id=1>
-<summary><h2> About me </h2></summary>
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Page made of GitHub Pages + Jekyll +  🐆
-  
-My Github recent [posts](https://github.com/pe1l1nl1/pe1l1nl1/tree/main/_posts)
+### Markdown
 
-Check out my updated [curriculum vitae](https://www.overleaf.com/read/xfjssmknscmk). 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-Contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
+```markdown
+Syntax highlighted code block
 
-<!--### :keyboard: Activity: Enable GitHub Pages
-   
--->
-</details>
+# Header 1
+## Header 2
+### Header 3
 
+- Bulleted
+- List
 
+1. Numbered
+2. List
 
-<!--
-  <<< Author notes: Step 2 >>>
-  --
--->
+**Bold** and _Italic_ and `Code` text
 
-<details id=2 open>
-<summary><h2> Some Projects </h2></summary>
-  
-  
-### 🌳 GREENER 
-  
-  1. Prototype [DApp](https://www.figma.com/file/rXd6Rv6HUjVkVKzRBiahdK/GREENER?node-id=5%3A4226)
- 
+[Link](url) and ![Image](src)
+```
 
-### 🏙️ CGI and Turku City - Junction Hackathon @Aalto University November, 2021 
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-1. Video introduction [youtube](https://youtu.be/DzbcShljmQE)
-1. Find the [map](https://github.com/JenyaPu/TurkuLife)
-1. More information [here](https://docs.google.com/document/d/13oTHdf4OECJiRPGcbx-3KOHWM1PB6sHP5Sln7sGCDWU)
-1. [Prototypes](https://www.figma.com/file/UYBYJqylGACqRsoCqFXaya/TurkuLife?node-id=0%3A1) 
-  
+### Roadmap
 
-### 🩺 Carin Care - Non-invasive glucose meter wearable 
-  
-  1. Video Introduction [MP4](https://drive.google.com/file/d/14QsI-M7mFE1IC4Np_Pi7CbV5Rf-eBLlw/view?usp=sharing)
-  1. Application [Mockups](https://drive.google.com/drive/folders/1JJW1T8wotbHnFh1VvcZhosu5_zAbt4dW?usp=sharing)
-  1. Business plan [BP](https://drive.google.com/file/d/1fzfqZ-N-q1kwSXKrHhDfqdtJjniIasJY/view?usp=sharing)
-  1. She Loves Tech Nordic Region x TWBA x NCSF, Best 8 Pitching Companies in 2021
-  1. ZGC Forum, International Technology Transfer Network Innovation Technologies for International Cooperation (100Bestech) listed as best 120 in 2021
+See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
+___
 
-</details>
+### References
 
-<details id=3>
-  
-<summary><h2> Data Analytics Portfolio (updating...) </h2></summary>
-
-Updated 4-Aug-2022 05:17 AM 🌟 
-
-1. Data Analytics Projects can be found [here](https://github.com/pe1l1nl1/Data-Analytics-Projects) 
-2. Data Science Summer School Projects 2022 [repository](https://github.com/pe1l1nl1/Data-Science-Summer-School)
-
-
-</details>
-
-
-
-<details id=4>
-  
-<summary><h2> Bored? Join our DAO </h2></summary>
-
-Join our DAO or form a subDAO with us 🌟 
-
-### 👧 KinderKarten DAO 
-
-<!--
-  KinderKarten DAO is focused on children’s, girls’ and women’s education, career development, and entrepreneurship on Web 3.0 
-  
--->
-1. [Github](https://github.com/KinderKarten)
-
-
-
-</details>
-
-<!--
-
-### :keyboard: Activity: Create a blog post
-
-1. Browse to the `my-pages` branch.
-1. Click the `Add file` dropdown menu and then on `Create new file`.
-1. Name the file `_posts/YYYY-MM-DD-title.md`.
-1. Replace the `YYYY-MM-DD` with today's date, and change the `title` of your first blog post if you'd like.
-   > If you do edit the title, make sure there are hyphens between your words.
-   > If your blog post date doesn't follow the correct date convention, you'll receive an error and your site won't build. For more information, see "[Page build failed: Invalid post date](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/troubleshooting-jekyll-build-errors-for-github-pages-sites)".
-1. Type the following content at the top of your blog post:
-   ```yaml
-   ---
-   title: "YOUR-TITLE"
-   date: YYYY-MM-DD
-   ---
-   ```
-
-  
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
-
--->
----
-
-&copy; 2022 pe1l1nl1 &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
+<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
+<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
