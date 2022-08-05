@@ -44,7 +44,7 @@ Contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 
 ### 🌳 GREENER 
 
-1. UI Frames [DApp](https://www.figma.com/file/rXd6Rv6HUjVkVKzRBiahdK/GREENER?node-id=5%3A4226)
+1. UI/UX Frames [DApp](https://www.figma.com/file/rXd6Rv6HUjVkVKzRBiahdK/GREENER?node-id=5%3A4226)
   
   
 ### 🏙 CGI and Turku City 
