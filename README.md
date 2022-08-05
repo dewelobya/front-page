@@ -42,9 +42,11 @@ Contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 <details id=2 open>
 <summary><h2> Previous Projects </h2></summary>
 
-<!-- ### 🌳 GREENER 1. Prototype [DApp](https://www.figma.com/file/rXd6Rv6HUjVkVKzRBiahdK/GREENER?node-id=5%3A4226)
+<!-- ### 🌳 GREENER 1. Prototype [DApp](https://www.figma.com/file/rXd6Rv6HUjVkVKzRBiahdK/GREENER?node-id=5%3A4226)-->
+  
+  
 ### 👴 CGI and Turku City 
--->
+
 
 1. Video introduction [youtube](https://youtu.be/DzbcShljmQE)
 1. Find the [map](https://github.com/JenyaPu/TurkuLife)
