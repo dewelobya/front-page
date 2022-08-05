@@ -56,9 +56,9 @@ Contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 
 ### 💉 Carin Care 
   
-  1. Video Introduction [🎬](https://drive.google.com/file/d/14QsI-M7mFE1IC4Np_Pi7CbV5Rf-eBLlw/view?usp=sharing)
+  1. Introduction [Video](https://drive.google.com/file/d/14QsI-M7mFE1IC4Np_Pi7CbV5Rf-eBLlw/view?usp=sharing)
   1. Application [Mockups](https://drive.google.com/drive/folders/1JJW1T8wotbHnFh1VvcZhosu5_zAbt4dW?usp=sharing)
-  1. Business plan [📃](https://drive.google.com/file/d/1fzfqZ-N-q1kwSXKrHhDfqdtJjniIasJY/view?usp=sharing)
+  1. Business plan [here](https://drive.google.com/file/d/1fzfqZ-N-q1kwSXKrHhDfqdtJjniIasJY/view?usp=sharing)
 
 </details>
 
