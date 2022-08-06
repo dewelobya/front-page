@@ -64,8 +64,7 @@ Contact me via [LinkedIn](https://www.linkedin.com/in/peill/).
 
 </details>
 
-<details id=3>
-<summary><h2> Programming and data analysis projects (updating...) </h2></summary>
+<details id=3><summary><h2> Programming and data analysis projects (updating...) </h2></summary>
 
 last update 4-August-2022
 
