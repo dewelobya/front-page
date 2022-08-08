@@ -23,14 +23,18 @@ endstep0-->
 
 Page made of GitHub Pages + Jekyll +  🐆
 
-1. Updated Resume [🌱](https://www.overleaf.com/read/xfjssmknscmk). 
+<!-- 1. Updated Resume [🌱](https://www.overleaf.com/read/xfjssmknscmk). -->
 
 1. Contact me via [📧](peilin.li@outlook.com).
 
 1. I'm currently working on [100daysofpython](https://github.com/pe1l1nl1/100daysofpython)
 
 1. I'm currently learning ***Solidity***
-
+  
+1. I'm open to collaborations
+  
+  <br>
+  <br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pe1l1nl1&label=Profile%20views&color=0e75b6&style=flat" alt="pe1l1nl1" /> </p>
