@@ -171,7 +171,7 @@ last update 4-August-2022
 
 <!-- KinderKarten DAO is focused on children’s, girls’ and women’s education, career development, and entrepreneurship on Web 3.0 -->
 
-1. [Github (building in process)](https://github.com/KinderKarten) 
+1. [Github](https://github.com/KinderKarten) Building in process
 
 
 </details>
