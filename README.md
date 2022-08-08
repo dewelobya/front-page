@@ -23,9 +23,15 @@ endstep0-->
 
 Page made of GitHub Pages + Jekyll +  🐆
 
-Updated [🌱](https://www.overleaf.com/read/xfjssmknscmk). 
+1. Updated Resume [🌱](https://www.overleaf.com/read/xfjssmknscmk). 
 
-Contact me via [📧](peilin.li@outlook.com).
+1. Contact me via [📧](peilin.li@outlook.com).
+
+1. I'm currently working on [100daysofpython](https://github.com/pe1l1nl1/100daysofpython)
+
+1. I'm currently learning ***Solidity***
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pe1l1nl1&label=Profile%20views&color=0e75b6&style=flat" alt="pe1l1nl1" /> </p>
 
@@ -69,7 +75,12 @@ Contact me via [📧](peilin.li@outlook.com).
 <a href="https://flask.palletsprojects.com/" target="__blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 <a href="https://angular.io" target="__blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+
+
+
+<!-- <a href="https://laravel.com/" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+
+-->
 <br>
 <br>
 <h4>Tools</h4>
