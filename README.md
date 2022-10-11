@@ -23,7 +23,6 @@ endstep0-->
 Page made of GitHub Pages + Jekyll +  🐆
 
 <!-- 1. Updated Resume [🌱](https://www.overleaf.com/read/xfjssmknscmk). -->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="peill" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/peill?trk=profile-badge">Peilin Li</a></div>
               
 
 1. Contact me via [📧](peilin.li@outlook.com).
