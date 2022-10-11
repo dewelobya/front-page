@@ -24,6 +24,8 @@ Page made of GitHub Pages + Jekyll +  🐆
 
 <!-- 1. Updated Resume [🌱](https://www.overleaf.com/read/xfjssmknscmk). -->
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 1. Contact me via [📧](peilin.li@outlook.com).
 
 1. I'm currently working on [100daysofpython](https://github.com/pe1l1nl1/100daysofpython)
