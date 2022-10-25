@@ -164,14 +164,8 @@ last update 4-August-2022
 </details>
 
 
-<details id=4>
-<summary><h2> Bored? Join our DAO </h2></summary>
 
- _Join our DAO or form a subDAO with us :sparkles:_
 
-<!-- KinderKarten DAO is focused on children’s, girls’ and women’s education, career development, and entrepreneurship on Web 3.0 -->
-
-1. [Github](https://github.com/KinderKarten) Building in process
 
 
 </details>
