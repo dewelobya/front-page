@@ -169,7 +169,7 @@ last update 4-August-2022
 
 updating from 17 Apr 2023 to 27 Nov 2023
 
-1. Cybersecurity [Education](https://github.com/pe1l1nl1/CyberSecurityCollections/blob/main/README.md)
+1. Cybersecurity [Notes](https://github.com/pe1l1nl1/CyberSecurityCollections/blob/main/README.md)
 
 </details>
 
