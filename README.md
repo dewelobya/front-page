@@ -158,7 +158,6 @@ last update 4-August-2022
 
 
 1. Data Analytics [Projects](https://github.com/pe1l1nl1/Data-Analytics-Projects)
-1. 2022 Summer School Data Sciences[Projects](https://github.com/pe1l1nl1/Data-Science-Summer-School) 
 1. Peppa Pig's [Overleaf Resume Template](https://www.overleaf.com/latex/templates/peppa-pig-resume/hrxkgmmzcrjz)
 
 </details>
