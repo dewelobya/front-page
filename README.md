@@ -25,8 +25,6 @@ Page made of GitHub Pages + Jekyll +  🐆
 <!-- 1. Updated Resume [🌱](https://www.overleaf.com/read/xfjssmknscmk). -->
               
 
-1. Contact me via [📧](peilin.li@outlook.com).
-
 1. I'm currently working on [100daysofpython](https://github.com/pe1l1nl1/100daysofpython)
 
 1. I'm currently learning ***Solidity***
@@ -41,11 +39,12 @@ Page made of GitHub Pages + Jekyll +  🐆
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target='_blank'><img src="https://github-profile-trophy.vercel.app/?username=pe1l1nl1" alt="pe1l1nl1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pe1l1nl1" target="_blank"><img src="https://img.shields.io/twitter/follow/pe1l1nl1?logo=twitter&style=for-the-badge" alt="pe1l1nl1" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/pe1l1nl1?logo=twitter&style=for-the-badge" alt="pe1l1nl1" /></a> </p>
 
 <!--### :keyboard: Activity: Enable GitHub Pages
 
--->
+
 
 ### Connect with me:
 ---
@@ -53,7 +52,7 @@ Page made of GitHub Pages + Jekyll +  🐆
 <h4>📺 Social media</h4>
 
 <a href="https://twitter.com/pe1l1nl1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="re_ermix" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/peill" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ermich-reda" height="30" width="40" /></a>
+
 
 ### 🛠 Languages and Tools:
 ---
