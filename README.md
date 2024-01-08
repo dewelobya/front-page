@@ -2,37 +2,22 @@
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
+  Add your open-source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# My github page
-
-[![@pe1l1nl1's Holopin board](https://holopin.io/api/user/board?user=pe1l1nl1)](https://holopin.io/@pe1l1nl1)
-<!--
---
--->
-
-<!--step0
-
-endstep0-->
 
 
-<details id=1>
-<summary><h2> About me </h2></summary>
 
-Page made of GitHub Pages + Jekyll +  🐆
 
-<!-- 1. Updated Resume [🌱](https://www.overleaf.com/read/xfjssmknscmk). -->
-              
+## ✨ 🪐 Hola, welcome to my page, here's my 📈 GitHub Stats 
+---
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pe1l1nl1&show_icons=true&locale=en&layout=compact" alt="pe1l1nl1" /></p>
 
-1. I'm currently working on [100daysofpython](https://github.com/pe1l1nl1/100daysofpython)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pe1l1nl1&show_icons=true&locale=en" alt="pe1l1nl1" /></p>
 
-1. I'm currently learning ***Solidity***
-  
-1. I'm open to collaborations
-  
-  <br>
-  <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pe1l1nl1&" alt="pe1l1nl1" /></p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pe1l1nl1&label=Profile%20views&color=0e75b6&style=flat" alt="pe1l1nl1" /> </p>
@@ -101,24 +86,20 @@ Page made of GitHub Pages + Jekyll +  🐆
 <br>
 <br>
 
-## 📈 GitHub Stats 
----
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pe1l1nl1&show_icons=true&locale=en&layout=compact" alt="pe1l1nl1" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pe1l1nl1&show_icons=true&locale=en" alt="pe1l1nl1" /></p>
+## On my way to becoming a data analyst in healthcare and/or gaming industry
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pe1l1nl1&" alt="pe1l1nl1" /></p>
-
-
-
-
-
-
-
+1. Data analytics [Projects](https://github.com/pe1l1nl1/Data-Analytics-Projects)
 
 </details>
+  <br>
+  <br>
 
+ ## Updating progress from Cybersecurity Professional path
+
+updated from 17 Apr 2023 to 27 Nov 2023 
+
+1. Cybersecurity [Notes](https://github.com/pe1l1nl1/CyberSecurityCollections/blob/main/README.md)
 
 
 <!--
@@ -126,8 +107,8 @@ Page made of GitHub Pages + Jekyll +  🐆
   --
 -->
 
-<details id=2 open>
-<summary><h2> Previous Projects </h2></summary>
+
+## Past projected dated from 2017-2020
 
 ### 🌳 GREENER 
 
@@ -149,27 +130,10 @@ Page made of GitHub Pages + Jekyll +  🐆
   1. Application [Mockups](https://drive.google.com/drive/folders/1JJW1T8wotbHnFh1VvcZhosu5_zAbt4dW?usp=sharing)
   1. Business plan [here](https://drive.google.com/file/d/1fzfqZ-N-q1kwSXKrHhDfqdtJjniIasJY/view?usp=sharing)
 
-</details>
-
-<details id=3><summary><h2> Programming and data analysis projects (updating...) </h2></summary>
-
-last update 4-August-2022
-
-
-1. Data Analytics [Projects](https://github.com/pe1l1nl1/Data-Analytics-Projects)
-1. Peppa Pig's [Overleaf Resume Template](https://www.overleaf.com/latex/templates/peppa-pig-resume/hrxkgmmzcrjz)
-
-</details>
 
 
 
-<details id=3><summary><h2> A Collection for Cybersecurity Professional </h2></summary>
 
-updating from 17 Apr 2023 to 27 Nov 2023
-
-1. Cybersecurity [Notes](https://github.com/pe1l1nl1/CyberSecurityCollections/blob/main/README.md)
-
-</details>
 
 <!--
 
