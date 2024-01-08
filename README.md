@@ -91,6 +91,18 @@
 
 1. Data analytics [Projects](https://github.com/pe1l1nl1/Data-Analytics-Projects)
 
+### Data visualization 
+  
+Data Visualization projects [repository](https://github.com/pe1l1nl1/Data-Analytics-Projects/tree/a12a4a5def4dba2a3e42a4fcfe32487cc537337f/DataVisualization):
+
+1. [Visualize Data with a Bar Chart](https://codepen.io/peill/pen/XWyNbbq)
+2. [Visualize Data with a Scatterplot Graph](https://codepen.io/peill/pen/OJaBraW)
+3. [Visualize Data with a Heat Map](https://codepen.io/peill/pen/BaGqvvW)
+4. [Visualize Data with a Choropleth](https://codepen.io/peill/pen/RwqeEda)
+5. [Visualize Data with a Treemap Diagram](https://codepen.io/pen?template=MJjpwO)
+ **Tools used:** HTML, CSS, SVG, JSON, APIs and AJAX
+   
+
 </details>
   <br>
   <br>
