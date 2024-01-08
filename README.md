@@ -87,7 +87,7 @@
 <br>
 
 
-## On my way to becoming a data analyst in healthcare and/or gaming industry
+## On my way to becoming a data analyst
 
 1. Data analytics projects [repository](https://github.com/pe1l1nl1/Data-Analytics-Projects)
 
