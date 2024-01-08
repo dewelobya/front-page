@@ -120,7 +120,7 @@ updated from 17 Apr 2023 to 27 Nov 2023
 -->
 
 
-## Past projected dated from 2017-2020
+## Past projects dated from 2017-2020
 
 ### 🌳 GREENER 
 
